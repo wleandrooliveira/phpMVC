@@ -3,7 +3,7 @@
 ### Segue abaixo a estrutura do projeto.
 ```
 
-|-- html
+|-- phpmvc
     |-- README.md
     |-- composer.json
     |-- composer.lock
